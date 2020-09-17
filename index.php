@@ -245,10 +245,10 @@
                 <div>
                     <div class="nav__brand">
                         <ion-icon name="menu-outline" class="nav__toggle" id="nav-toggle"></ion-icon>
-                        <a href="index.html" class="nav__logo">FY Board</a>
+                        <a href="index.php" class="nav__logo">FY Board</a>
                     </div>
                     <div class="nav__list">
-                        <a href="index.html" class="nav__link active">
+                        <a href="index.php" class="nav__link active">
                             <ion-icon name="home-outline" class="nav__icon"></ion-icon>
                             <span class="nav__name">Home</span>
                         </a>

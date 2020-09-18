@@ -59,7 +59,9 @@ a{
   transition: .5s;
   z-index: var(--z-fixed);
 }
-
+::-webkit-scrollbar {
+  display: none;
+}
 /*===== NAV =====*/
 .nav{
   height: 100%;

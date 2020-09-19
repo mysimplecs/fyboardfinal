@@ -26,6 +26,7 @@
   box-sizing: border-box;
 }
 body{
+  width: 150%;
   background: #f2f4f8;
   position: relative;
   margin: 0;

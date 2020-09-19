@@ -909,6 +909,45 @@ a{
   background:#e40046;
   ;
 }
+.swiper-slide:nth-child(10) .test-slider{
+  background: blue;
+  ;
+}.swiper-slide:nth-child(11) .test-slider{
+  background: green;
+  ;
+}.swiper-slide:nth-child(12) .test-slider{
+  background: red;
+  ;
+}.swiper-slide:nth-child(13) .test-slider{
+  background: yellow;
+  ;
+}.swiper-slide:nth-child(14) .test-slider{
+  background:#e40046;
+  ;
+}.swiper-slide:nth-child(15) .test-slider{
+  background: brown;
+  ;
+}.swiper-slide:nth-child(16) .test-slider{
+  background: grey;
+  ;
+}.swiper-slide:nth-child(17) .test-slider{
+  background: blue;
+  ;
+}.swiper-slide:nth-child(18) .test-slider{
+  background: orange;
+  ;
+}.swiper-slide:nth-child(19) .test-slider{
+  background: green;
+  ;
+}.swiper-slide:nth-child(20) .test-slider{
+  background:#e40046;
+  ;
+}.swiper-slide:nth-child(21) .test-slider{
+  background: yellow;
+  ;
+}.swiper-slide:nth-child(22) .test-slider{
+  background: blue;
+  ;
 
 
 .soon{

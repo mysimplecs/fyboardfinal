@@ -10,6 +10,7 @@
         <title>FY Board - NYUAD</title>
     </head>
     <body id="body-pd">
+        <!--
         <div class="container">
 
             <div class="row">
@@ -239,7 +240,40 @@
               <div class="hexagon">  </div>
               <div class="hexagon">  </div>
             </div>
-          </div>
+          </div>-->
+        <div class="hex center">
+  <div class="hex odd first one"></div>
+  <div class="hex odd first three"></div>
+  <div class="hex odd first five"></div>
+  <div class="hex odd first seven"></div>
+  <div class="hex odd first nine"></div>
+  <div class="hex odd first eleven"></div>
+  <div class="hex odd second one"></div>
+  <div class="hex odd second three"></div>
+  <div class="hex odd second five"></div>
+  <div class="hex odd second seven"></div>
+  <div class="hex odd second nine"></div>
+  <div class="hex odd second eleven"></div>
+  <div class="hex odd third one"></div>
+  <div class="hex odd third three"></div>
+  <div class="hex odd third five"></div>
+  <div class="hex odd third seven"></div>
+  <div class="hex odd third nine"></div>
+  <div class="hex odd third eleven"></div>
+  <div class="hex even first two"></div>
+  <div class="hex even first four"></div>
+  <div class="hex even first six"></div>
+  <div class="hex even first eight"></div>
+  <div class="hex even first ten"></div>
+  <div class="hex even first twelve"></div>
+  <div class="hex even second two"></div>
+  <div class="hex even second four"></div>
+  <div class="hex even second six"></div>
+  <div class="hex even second eight"></div>
+  <div class="hex even second ten"></div>
+  <div class="hex even second twelve"></div>
+</div>
+
         <div class="l-navbar" id="navbar">
             <nav class="nav">
                 <div>

@@ -288,7 +288,7 @@
                         </a>
                         <a href="today.html" class="nav__link">
                             <ion-icon name="checkmark-circle-outline" class="nav__icon"></ion-icon>
-                            <span class="nav__name">Today's Events</span>
+                            <span class="nav__name">Today's Updates</span>
                         </a>
                         <a href="reminders.html" class="nav__link">
                           <ion-icon name="alarm" class="nav__icon"></ion-icon>

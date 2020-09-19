@@ -888,10 +888,10 @@ a{
   background: #e40046;
 }
 .swiper-slide:nth-child(3) .test-slider{
-  background: rgb(0, 255, 42);
+  background: blue;
 }
 .swiper-slide:nth-child(4) .test-slider{
-  background: blue;
+  background: rgb(0, 255, 42);
 }
 .swiper-slide:nth-child(5) .test-slider{
   background: green;
